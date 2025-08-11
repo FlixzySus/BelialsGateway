@@ -14,14 +14,14 @@ Place this folder under your QQT scripts directory:
 
 diablo_qqt/
 └─ scripts/
-  └─ BelialsGateway/
-     ├─ main.lua
-     ├─ gui.lua
-     ├─ core/
-     │  ├─ logic.lua
-     │  ├─ explorer.lua
-     │  ├─ explorer_integration.lua
-     │  └─ pathwalker.lua
-     └─ paths/
-        ├─ TarsarakToBelial.lua
-        └─ ToAlter.lua
+└─ BelialsGateway/
+├─ main.lua
+├─ gui.lua
+├─ core/
+│ ├─ logic.lua
+│ ├─ explorer.lua
+│ ├─ explorer_integration.lua
+│ └─ pathwalker.lua
+└─ paths/
+├─ TarsarakToBelial.lua
+└─ ToAlter.lua

@@ -1,6 +1,6 @@
 # Belial’s Gateway (Diablo IV — QQT Script)
 
-> Auto‑travel and path walker from **Tarsarak → Belial portal → Altar Room**, with optional explorer assistance and automatic Bosser handoff.
+> Auto‑tp and path walker from **Tarsarak → Belial portal → Altar Room**, with optional explorer assistance and automatic Bosser handoff.
 
 ## Overview
 Belial’s Gateway is a QQT Lua script that:

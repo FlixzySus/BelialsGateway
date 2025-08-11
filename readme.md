@@ -12,16 +12,4 @@ Belial’s Gateway is a QQT Lua script that:
 ## Folder Structure
 Place this folder under your QQT scripts directory:
 
-diablo_qqt/
-└─ scripts/
-└─ BelialsGateway/
-├─ main.lua
-├─ gui.lua
-├─ core/
-│ ├─ logic.lua
-│ ├─ explorer.lua
-│ ├─ explorer_integration.lua
-│ └─ pathwalker.lua
-└─ paths/
-├─ TarsarakToBelial.lua
-└─ ToAlter.lua
+**diablo_qqt/scripts/BelialsGateway**
